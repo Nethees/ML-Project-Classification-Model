@@ -53,6 +53,3 @@ The goal of this project is to create a classification model which will classify
 * ***EfficientNet B1 Architecture*** is having the accuracy of 0.88, with macro average of 0.78 and weighted average of 0.88.
 * Hence, from my side, this is the best model to be deployed using this dataset, to detect the images from the shoulder x-ray dataset.
 *****************************************
-## Author
-Code Contributed by, Abhishek Sharma, 2021 @abhisheks008 #LGMSOC21
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
